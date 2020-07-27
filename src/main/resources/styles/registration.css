@@ -1,0 +1,12 @@
+.form-group {
+    margin-top: 20px;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#submit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
